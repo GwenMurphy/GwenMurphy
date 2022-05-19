@@ -22,3 +22,4 @@ elif fn == 2:
     f_text = 'Today will be tough, but worth it.'
 elif fn == 3:
     f_text = 'You\'re gonna marry Ella Balinska and Karen Gillan and be their wife and the little spoon.'
+

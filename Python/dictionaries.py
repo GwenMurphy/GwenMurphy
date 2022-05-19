@@ -8,3 +8,4 @@ print(len(cats))   ## Checks how many homicidal furballs are in the list and the
 #del(cats[0])       ## Deletes a meow meow. I will never uncomment this because I'm not a monster.
 
 ##### Create a dictionary with Ints for keys and Booleans for values.
+

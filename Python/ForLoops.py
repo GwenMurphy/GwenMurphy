@@ -17,3 +17,4 @@ for x in favact:
 
 for x in favact:
     print(random.choice(favact))
+    
