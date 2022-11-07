@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @GwenMurphy
 - 👀 I’m interested in:
--           Sailor Moon
--           Computers
--           Watching Wales win the Six Nations
--           Raspberry Pi's
--           Star Trek
+*           Sailor Moon
+*           Computers
+*           Watching Wales win the Six Nations
+*           Raspberry Pi's
+*           Star Trek
 - 🌱 I’m currently learning ...
--           Python
--           Welsh (on Duolingo)
+*           Python
+*           Welsh
+*           French
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
